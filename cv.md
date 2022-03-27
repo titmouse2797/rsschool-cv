@@ -8,7 +8,7 @@ Frontend developer
 * **Phone:** +375 29 733 8014
 * **E-mail:** anastasmikula@gmail.com
 * **Telegram:** @nastya_mik
-* **[LinkedIn]**(https://www.linkedin.com/in/nastya-mikula-ab4a62147/)
+* **LinkedIn:** https://www.linkedin.com/in/nastya-mikula-ab4a62147/
 
 ## My work experience
 
