@@ -1,0 +1,110 @@
+.nav {   
+  position: fixed;   top: 0;   left: 0;   z-index: 9999;   width: 100%;   height: 50px;   background-color: rgb(52, 0, 77); }
+
+  .nav-list {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style: none;
+}
+ul {
+  display: block;
+  list-style-type: disc;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  padding-inline-start: 40px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+    
+}
+
+
+.header {
+  background: url(assets/img/back.jpg) no-repeat center top;
+  margin-top: 0px;
+  padding-top: 140px;
+  text-align: center;
+  background-attachment: relative;
+  background-position: center center;
+  min-height: 400px;
+  width: 100%;
+  -webkit-background-size: 100%;
+  -moz-background-size: 100%;
+  -o-background-size: 100%;
+  background-size: 100%;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+}
+.header h1 {
+  font-size: 80px;
+  color: white;
+}
+
+.header h3 {
+  font-size: 20px;
+  color: white;
+}
+
+
+
+.section{
+  width: 80%;
+}
+.main{background: white;
+  margin: 20px 0;
+  padding: 10px;
+  margin-bottom: auto;
+  display: block;}
+
+  .container {
+    display: flex;
+    justify-content: center;
+  }
+  .center {
+    width: 800px;
+  }
+  .section-profile-logo {
+    width: 300px;
+    height: 300px;
+    border-radius: 50%; }
+
+    code {
+      font-family: monospace;
+  }
+
+  .footer-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    color: rgb(52, 0, 77);}
+
+    .rss {
+      width: 121px;
+      height: 45px;
+      background-image: url(/assets/img/rss.svg);
+      background-size: contain;
+      background-repeat: no-repeat;
+  }
+
+  @media (max-width: 768px) {
+    .section {
+      width: 100%;
+    }
+  }
