@@ -53,3 +53,7 @@ Languages
 * **Belarusian** (Native)
 * **English** (B1)
 * **Poland** (A2)
+
+English
+------------------- 
+**EPAM English test result:** B1
