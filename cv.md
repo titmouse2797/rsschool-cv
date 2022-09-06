@@ -46,3 +46,10 @@ Code examples
 ============
 
 > perimeterSequence = (a, n)  => a * n * 4;
+
+Languages
+============
+* **Russian** (Native)
+* **Belarusian** (Native)
+* **English** (B1)
+* **Poland** (A2)
